@@ -1,0 +1,389 @@
+# Copyright (C) 2019 WPC Grouped Product
+# This file is distributed under the same license as the WPC Grouped Product package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Grouped Product\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 08:07+0000\n"
+"PO-Revision-Date: 2019-08-22 11:56+0000\n"
+"Last-Translator: albaret <albaret@gmail.com>\n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:61, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:422
+msgid "Select options"
+msgstr "Sélectionner les options"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:66, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:428
+msgid "Read more"
+msgstr "Lire plus"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:76, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:439
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:189
+msgid "WPC Grouped Product"
+msgstr "WPC Produit groupé"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:189
+msgid "Grouped Product"
+msgstr "Produit groupé"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:208
+msgid "Reviews"
+msgstr "Avis"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:210
+msgid "Changelog"
+msgstr "Changelog"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:212
+msgid "Discussion"
+msgstr "Discussion"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:219
+msgid "How to use?"
+msgstr "Comment l'utiliser ?"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:223, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:588
+msgid "Settings"
+msgstr "Réglages"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:227
+msgid "Tools"
+msgstr "Outils"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:230
+msgid "Premium Support"
+msgstr "Support Premium"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:238
+msgid ""
+"When creating the product, please choose product data is \"Smart grouped\" "
+"then you can see the search field to start search and add products."
+msgstr ""
+"Lors de la création du produit, veuillez choisir les données du produit "
+"\"Produits groupés\", puis vous pouvez voir le champ de recherche pour "
+"lancer la recherche et ajouter des produits."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:250
+msgid "General"
+msgstr "Général"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:254
+msgid "Price format"
+msgstr "Format du prix"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:257
+msgid "Normal price"
+msgstr "Prix de vente"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:258
+msgid "From price"
+msgstr "Prix à partir de"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:259
+msgid "None"
+msgstr "Aucun"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:262
+msgid "Choose the price format for grouped product on the shop page."
+msgstr ""
+"Choisissez le format du prix pour les produits groupés sur la page de la "
+"boutique."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:268, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:533, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:794
+msgid "Grouped products"
+msgstr "Produits groupés"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:272
+msgid "Position"
+msgstr "Position"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:277
+msgid "Above add to cart button"
+msgstr "Au-dessus du bouton Ajouter au panier"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:281
+msgid "Below add to cart button"
+msgstr "Au-dessous du bouton Ajouter au panier"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:285
+msgid "In a new tab"
+msgstr "Dans un nouvel onglet"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:288
+msgid "Choose the position to show the grouped product list."
+msgstr "Choisissez la position pour afficher la liste des produits groupés."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:293
+msgid "Show thumbnail"
+msgstr "Afficher la vignette"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:298, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:313, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:372, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:390, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:461, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:476, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:492, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:508
+msgid "Yes"
+msgstr "Oui"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:302, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:317, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:336, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:359, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:376, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:394, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:465, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:480, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:496, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:512
+msgid "No"
+msgstr "Non"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:308
+msgid "Show short description"
+msgstr "Afficher la description courte"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:323
+msgid "Show price"
+msgstr "Afficher le prix"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:328
+msgid "Price"
+msgstr "Prix"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:332
+msgid "Price HTML"
+msgstr "Prix HTML"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:342
+msgid "Link to individual product"
+msgstr "Lien vers le produit individuel"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:347
+msgid "Yes, open in the same tab"
+msgstr "Oui, ouvrir dans le même onglet"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:351
+msgid "Yes, open in the new tab"
+msgstr "Oui, ouvrir dans un nouvel onglet"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:355
+msgid "Yes, open quick view popup"
+msgstr "Oui, ouvrir une vue rapide en popup"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:367
+msgid "Change image"
+msgstr "Changer l'image"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:380
+msgid ""
+"Change the main product image when choosing the variation of grouped product."
+msgstr ""
+"Changer l'image principale du produit lors du choix de la variation du "
+"produit groupé."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:385
+msgid "Change price"
+msgstr "Modifier le prix"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:398
+msgid ""
+"Change the main product price when choosing the variation of grouped product."
+" It uses JavaScript to change product price so it is very dependent on "
+"theme’s HTML. If it cannot find and update the product price, please contact "
+"us and we can help you adjust the JS file."
+msgstr ""
+"Modifiez le prix du produit principal lors du choix de la variation du "
+"produit groupé. Il utilise JavaScript pour changer le prix du produit, il "
+"dépend donc beaucoup du HTML du thème. S'il ne peut pas trouver et mettre à "
+"jour le prix du produit, veuillez nous contacter et nous pourrons vous aider "
+"à ajuster le fichier JS."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:403
+msgid "Total text"
+msgstr "Texte Total"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:406
+msgid "Total:"
+msgstr "Total:"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:411
+msgid "\"Add to cart\" button labels"
+msgstr "Etiquettes du bouton \"Ajouter au panier\""
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:414
+msgid "Leave blank if you want to use the default text and can be translated."
+msgstr ""
+"Laissez ce champ vide si vous souhaitez utiliser le texte par défaut et que "
+"vous voulez le traduire."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:418
+msgid "Archive/shop page"
+msgstr "Page archive/boutique"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:424
+msgid "For purchasable grouped."
+msgstr "Pour les produits groupés achetables"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:430
+msgid "For un-purchasable grouped."
+msgstr "Pour les produits groupés non achetables"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:435
+msgid "Single product page"
+msgstr "Page produit unique"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:444, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:820
+msgid "Search"
+msgstr "Recherche"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:448
+msgid "Search limit"
+msgstr "Limite de recherche"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:456
+msgid "Search by SKU"
+msgstr "Recherche par UGS"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:471
+msgid "Search exact"
+msgstr "Recherche exacte"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:483
+msgid "Match whole product title or content?"
+msgstr "Faire correspondre le titre du produit ou le contenu ?"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:487
+msgid "Search sentence"
+msgstr "Recherche par phrase"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:499
+msgid "Do a phrase search?"
+msgstr "Faire une recherche par phrase ?"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:503
+msgid "Accept same products"
+msgstr "Accepter les mêmes produits"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:515
+msgid "If yes, a product can be added many times."
+msgstr "Si oui, un produit peut être ajouté plusieurs fois."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:521
+msgid "Update Options"
+msgstr "Enregistrer les modifications"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:538
+msgid "View all grouped products"
+msgstr "Voir tous les produits groupés"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:553
+msgid ""
+"Please select some product options before adding this grouped to the cart."
+msgstr ""
+"Veuillez sélectionner certaines options de produit avant d'ajouter ce groupe "
+"au panier."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:554
+msgid ""
+"Please choose at least one product before adding this grouped to the cart."
+msgstr "Veuillez choisir au moins un produit avant de l'ajouter au panier."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:602
+msgid "Premium support"
+msgstr "Support Premium"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:734
+msgid "No results found for:"
+msgstr "Aucun résultat trouvé pour:"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:774, 
+#: wpc-grouped-product-premium/wpc-grouped-product.php:808
+msgid "Smart grouped"
+msgstr "Produits groupés"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:781
+msgid "Grouped Products"
+msgstr "Produits groupés"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:822
+msgid "settings"
+msgstr "réglages"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:827
+msgid "searching..."
+msgstr "recherche..."
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:829
+msgid "Type any keyword to search"
+msgstr "Tapez n'importe quel mot clé à rechercher"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:835
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:866
+msgid "Above text"
+msgstr "Avant le texte"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:870
+msgid "The text before grouped product"
+msgstr "Le texte avant le produit groupé"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:875
+msgid "Under text"
+msgstr "Après le texte"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:879
+msgid "The text after grouped product"
+msgstr "Le texte après le produit groupé"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:898
+msgid "Add"
+msgstr "Ajouter"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:900
+msgid "Remove"
+msgstr "Supprimer"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:903
+msgid "Default quantity"
+msgstr "Quantité par défaut"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:1042
+msgid "Choose"
+msgstr "Choisir"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:1048
+msgid "Clear"
+msgstr "Effacer"
+
+#: wpc-grouped-product-premium/wpc-grouped-product.php:1102
+msgid "From"
+msgstr "A partir de"
