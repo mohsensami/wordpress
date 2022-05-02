@@ -1,0 +1,48 @@
+/*
+ Theme Name:   Sahifa Child
+ Theme URI:    http://hacoupian.net/
+ Description:  Sahifa Child Theme
+ Author:       Hacoupian
+ Author URI:   http://hacoupian.net
+ Template:     sahifa
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  sahifachild
+*/
+
+.entry p {
+    line-height: 30px;
+    text-align: justify;
+}
+.stripe-line {
+    margin-top: 13px;
+    margin-bottom: 14px;
+}
+.page-head .stripe-line {
+    margin-top: 13px;
+}
+.box-inner-block {
+    text-align: justify;
+    line-height: 30px;
+    font-size: 12px;
+}
+#check-also-box .block-head h3 {
+    font-size: 16px;
+}
+.check-also-post .post-title {
+    font-size: 15px;
+}
+.check-also-post p {
+    line-height: 26px;
+    text-align: justify;
+}
+.cat-tabs-header li {
+    font-size: 13px;
+    font-weight: bold;
+}
+.comment-content p {
+    line-height: 24px;
+    text-align: justify;
+}
