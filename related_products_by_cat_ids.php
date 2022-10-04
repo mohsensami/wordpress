@@ -25,6 +25,12 @@ if( current_user_can('administrator') ) {
                 'operator' => 'IN',
             )
         ),
+        'date_query' => array(
+            array(
+                'column' => 'post_date_gmt',
+                'before' => '3 month ago',
+            ),
+        ),
     );
 
     $products = new WP_Query($args);
